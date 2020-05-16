@@ -1,0 +1,132 @@
+20
+91457419
+91160324
+49976149
+67237465
+24124626
+88812998
+14759708
+89594006
+71281199
+16994365
+47235759
+35073907
+24350204
+42320451
+45594438
+68428759
+28698737
+46933604
+70571329
+23662766
+2
+Charles 0 180 0 120 120 240
+Max 0 0 120 240 0 120
+9 Monday_week_1
+0 Sooraya Qadir 5   
+11 Alisa Tager 6
+17 Selene Gallio 4
+49 Rita Wayword 6
+106 Cecilia Reyes 6
+109 Sean Cassidy 6
+114 Alexander Summers 4
+154 Neal Shaara 2
+155 Nicholas Gleason 3
+17  Tuesday_week_1
+49 Xi'an Manh 6
+52 Jean-Paul Beaubier 5
+72 Danielle Moonstar 3
+83 Tandy Bowen 5
+96 Samuel Guthrie 3
+97 Santo Vaccarro 6
+101 James Bradley 6
+105 Paige Guthrie 5
+106 James Proudstar 4
+118 Christy Nord 1
+129 Julian Keller 4
+132 Amara Aquilla 2
+146 Laura Kinney 2
+147 Nathaniel Grey 2
+148 John Proudstar 5
+154 Hisako Ichiki 1
+231 David Alleyne 2
+25  Wednesday_week_1
+2 Wade Wilson 6
+9 Shiro Yoshida 5
+9 Kevin Sydney 4
+19 Cain Marko 4
+25 Eric Gitter 1
+29 Nezhno Abidemi 5
+37 Carl Denti 4
+48 Anna Marie 4
+48 Jonothon Starsmore 3
+48 Jubilation Lee 2
+52 Matsu'o Tsurayaba 2
+62 Cassandra Nova 2
+65 Alison Crestmere 1
+84 Hope Summers 2
+90 Davis Cameron 4
+96 Thomas Cassidy 6
+106 Ororo T'Challa 3
+110 Arkady Rossovich 3
+124 Elizabeth Braddock 6
+132 James Howlett 4
+160 Emma Frost 5
+169 Sarah Rushman 1
+172 Madison Jeffries 2
+189 Amahl Farouk 2
+190 Kenuichio Harada 5
+9  Monday_week_2
+5 Cessily Kincaid 1
+13 Raven Darkholme 6
+21 Douglas Ramsey 6
+75 Paris Bennett 5
+82 Remy LeBeau 3
+88 Karima Shapandar 6
+95 Alison Blaire 4
+138 Robert Kelly 5
+176 Rachel Summers 6
+16  Tuesday_week_2
+8 Victor Borkowski 5
+39 Kevin MacTaggert 4
+40 Scott Summers 1
+47 Namor McKenzie 6
+59 Robert Drake 5
+69 Miranda Leevald 1
+117 Megan Gwynn 5
+135 Bolivar Trask 5
+136 Calvin Rankin 2
+143 David Haller 1
+174 Lucas Bishop 6
+177 Heather Cameron 3
+202 Tabitha Smith 6
+203 Jean Grey 2
+207 Kurt Wagner 6
+232 Warren Worthington 2
+26  Wednesday_week_2
+6 Jason Wyngarde 3
+9 Shen Xorn 2
+10 Henry McCoy 5
+14 Jeanne-Marie Beaubier 5
+17 Illyana Rasputina 3
+24 Gabriel Summers 5
+25 Nathan Summers 6
+32 Suzanne Chan 6
+52 Lorna Dane 1
+62 Karl Lykos 3
+73 Yuriko Oyama 6
+88 Roberto Da_Costa 1
+105 Madelyne Pryor 5
+105 Armando Munoz 4
+107 Victor Creed 3
+108 Noriko Ashida 2
+115 Kitty Pryde 5
+128 Nathaniel Essex 2
+154 Cameron Hodge 2
+162 Regan Wyngarde 1
+179 Joshua Foley 1
+181 William Stryker 6
+189 Piotr Rasputin 2
+205 Neena Thurman 3
+230 Ruth Aldine 5
+230 Tyrone Johnson 3

@@ -1,0 +1,371 @@
+
+
+ start of day 1 week 1
+
+Start time 0 End Time 180
+
+Sooraya Qadir 23662766 0
+TA is serving to Sooraya Qadir 4 23662766 6
+TA is serving to Sooraya Qadir 3 23662766 11
+Alisa Tager 70571329 11
+TA is serving to Sooraya Qadir 2 23662766 16
+Selene Gallio 46933604 17
+TA is serving to Alisa Tager 5 70571329 21
+TA is serving to Sooraya Qadir 1 23662766 26
+TA is serving to Selene Gallio 3 46933604 31
+TA is serving to Alisa Tager 4 70571329 36
+Completed from TA line Sooraya Qadir 0 23662766 41
+Sooraya has returned laptop 23662766
+TA is serving to Selene Gallio 2 46933604 46
+Rita Wayword 23662766 49
+TA is serving to Alisa Tager 3 70571329 51
+TA is serving to Selene Gallio 1 46933604 56
+TA is serving to Rita Wayword 5 23662766 61
+TA is serving to Alisa Tager 2 70571329 66
+Completed from TA line Selene Gallio 0 46933604 71
+Selene has returned laptop 46933604
+TA is serving to Rita Wayword 4 23662766 76
+TA is serving to Alisa Tager 1 70571329 81
+TA is serving to Rita Wayword 3 23662766 86
+Completed from TA line Alisa Tager 0 70571329 91
+Alisa has returned laptop 70571329
+TA is serving to Rita Wayword 2 23662766 96
+TA is serving to Rita Wayword 1 23662766 101
+Completed from TA line Rita Wayword 0 23662766 106
+Cecilia Reyes 70571329 106
+Rita has returned laptop 23662766
+Sean Cassidy 23662766 109
+TA is serving to Cecilia Reyes 5 70571329 112
+Alexander Summers 46933604 114
+TA is serving to Sean Cassidy 5 23662766 117
+TA is serving to Cecilia Reyes 4 70571329 122
+TA is serving to Alexander Summers 3 46933604 127
+TA is serving to Sean Cassidy 4 23662766 132
+TA is serving to Cecilia Reyes 3 70571329 137
+TA is serving to Alexander Summers 2 46933604 142
+TA is serving to Sean Cassidy 3 23662766 147
+TA is serving to Cecilia Reyes 2 70571329 152
+Neal Shaara 28698737 154
+Nicholas Gleason 68428759 155
+TA is serving to Alexander Summers 1 46933604 157
+TA is serving to Sean Cassidy 2 23662766 162
+TA is serving to Cecilia Reyes 1 70571329 167
+TA is serving to Neal Shaara 1 28698737 172
+TA is serving to Nicholas Gleason 2 68428759 177
+
+
+END OF THE DAY 1 week 1
+
+
+
+ start of day 2 week 1
+
+Start time 0 End Time 240
+
+Xi'an Manh 45594438 49
+Jean-Paul Beaubier 42320451 52
+TA is serving to Xi'an Manh 5 45594438 55
+TA is serving to Jean-Paul Beaubier 4 42320451 60
+TA is serving to Xi'an Manh 4 45594438 65
+TA is serving to Jean-Paul Beaubier 3 42320451 70
+Danielle Moonstar 24350204 72
+TA is serving to Xi'an Manh 3 45594438 75
+TA is serving to Jean-Paul Beaubier 2 42320451 80
+Tandy Bowen 35073907 83
+TA is serving to Danielle Moonstar 2 24350204 85
+TA is serving to Xi'an Manh 2 45594438 90
+TA is serving to Jean-Paul Beaubier 1 42320451 95
+Samuel Guthrie 47235759 96
+Santo Vaccarro 16994365 97
+TA is serving to Tandy Bowen 4 35073907 100
+James Bradley 71281199 101
+TA is serving to Danielle Moonstar 1 24350204 105
+Paige Guthrie 89594006 105
+James Proudstar 14759708 106
+TA is serving to Xi'an Manh 1 45594438 110
+Completed from TA line Jean-Paul Beaubier 0 42320451 115
+Jean-Paul has returned laptop 42320451
+Christy Nord 42320451 118
+TA is serving to Samuel Guthrie 2 47235759 120
+TA is serving to Santo Vaccarro 5 16994365 125
+Julian Keller 88812998 129
+TA is serving to Tandy Bowen 3 35073907 130
+Amara Aquilla 24124626 132
+TA is serving to James Bradley 5 71281199 135
+Completed from TA line Danielle Moonstar 0 24350204 140
+Danielle has returned laptop 24350204
+TA is serving to Paige Guthrie 4 89594006 145
+Laura Kinney 24350204 146
+Nathaniel Grey 67237465 147
+John Proudstar 49976149 148
+TA is serving to James Proudstar 3 14759708 150
+Hisako Ichiki 91160324 154
+Completed from TA line Xi'an Manh 0 45594438 155
+Xi'an has returned laptop 45594438
+Completed from TA line Christy Nord 0 42320451 160
+Christy has returned laptop 42320451
+TA is serving to Samuel Guthrie 1 47235759 165
+TA is serving to Santo Vaccarro 4 16994365 170
+TA is serving to Julian Keller 3 88812998 175
+TA is serving to Tandy Bowen 2 35073907 180
+TA is serving to Amara Aquilla 1 24124626 185
+TA is serving to James Bradley 4 71281199 190
+TA is serving to Paige Guthrie 3 89594006 195
+TA is serving to Laura Kinney 1 24350204 200
+TA is serving to Nathaniel Grey 1 67237465 205
+TA is serving to John Proudstar 4 49976149 210
+TA is serving to James Proudstar 2 14759708 215
+Completed from TA line Hisako Ichiki 0 91160324 220
+Hisako has returned laptop 91160324
+Completed from TA line Samuel Guthrie 0 47235759 225
+Samuel has returned laptop 47235759
+TA is serving to Santo Vaccarro 3 16994365 230
+David Alleyne 47235759 231
+TA is serving to Julian Keller 2 88812998 235
+
+
+END OF THE DAY 2 week 1
+
+
+
+ start of day 3 week 1
+
+Start time 0 End Time 240
+
+Wade Wilson 91160324 2
+TA is serving to Wade Wilson 5 91160324 8
+Shiro Yoshida 42320451 9
+TA is serving to Wade Wilson 4 91160324 13
+TA is serving to Shiro Yoshida 4 42320451 18
+TA is serving to Wade Wilson 3 91160324 23
+TA is serving to Shiro Yoshida 3 42320451 28
+TA is serving to Wade Wilson 2 91160324 33
+TA is serving to Shiro Yoshida 2 42320451 38
+TA is serving to Wade Wilson 1 91160324 43
+TA is serving to Shiro Yoshida 1 42320451 48
+Completed from TA line Wade Wilson 0 91160324 53
+Wade has returned laptop 91160324
+Completed from TA line Shiro Yoshida 0 42320451 58
+Shiro has returned laptop 42320451
+
+
+END OF THE DAY 3 week 1
+
+
+
+ start of day 1 week 2
+
+Start time 0 End Time 180
+
+Cessily Kincaid  5
+Completed from TA line Cessily Kincaid 0  11
+Cessily has returned laptop 
+Raven Darkholme  13
+TA is serving to Raven Darkholme 5  19
+Douglas Ramsey  21
+TA is serving to Raven Darkholme 4  24
+TA is serving to Douglas Ramsey 5  29
+TA is serving to Raven Darkholme 3  34
+TA is serving to Douglas Ramsey 4  39
+TA is serving to Raven Darkholme 2  44
+TA is serving to Douglas Ramsey 3  49
+TA is serving to Raven Darkholme 1  54
+TA is serving to Douglas Ramsey 2  59
+Completed from TA line Raven Darkholme 0  64
+Raven has returned laptop 
+TA is serving to Douglas Ramsey 1  69
+Completed from TA line Douglas Ramsey 0  74
+Douglas has returned laptop 
+Paris Bennett  75
+TA is serving to Paris Bennett 4  81
+Remy LeBeau  82
+TA is serving to Paris Bennett 3  86
+Karima Shapandar  88
+TA is serving to Remy LeBeau 2  91
+Alison Blaire  95
+TA is serving to Paris Bennett 2  96
+TA is serving to Karima Shapandar 5  101
+TA is serving to Remy LeBeau 1  106
+TA is serving to Alison Blaire 3  111
+TA is serving to Paris Bennett 1  116
+TA is serving to Karima Shapandar 4  121
+Completed from TA line Remy LeBeau 0  126
+Remy has returned laptop 
+TA is serving to Alison Blaire 2  131
+Completed from TA line Paris Bennett 0  136
+Paris has returned laptop 
+Robert Kelly  138
+TA is serving to Karima Shapandar 3  141
+TA is serving to Alison Blaire 1  146
+TA is serving to Robert Kelly 4  151
+TA is serving to Karima Shapandar 2  156
+Completed from TA line Alison Blaire 0  161
+Alison has returned laptop 
+TA is serving to Robert Kelly 3  166
+TA is serving to Karima Shapandar 1  171
+TA is serving to Robert Kelly 2  176
+Rachel Summers  176
+
+
+END OF THE DAY 1 week 2
+
+
+
+ start of day 2 week 2
+
+Start time 0 End Time 240
+
+Victor Borkowski  8
+TA is serving to Victor Borkowski 4  14
+TA is serving to Victor Borkowski 3  19
+TA is serving to Victor Borkowski 2  24
+TA is serving to Victor Borkowski 1  29
+Completed from TA line Victor Borkowski 0  34
+Victor has returned laptop 
+Kevin MacTaggert  39
+Scott Summers  40
+TA is serving to Kevin MacTaggert 3  45
+Namor McKenzie  47
+Completed from TA line Scott Summers 0  50
+Scott has returned laptop 
+TA is serving to Kevin MacTaggert 2  55
+Robert Drake  59
+TA is serving to Namor McKenzie 5  60
+TA is serving to Kevin MacTaggert 1  65
+Miranda Leevald  69
+TA is serving to Robert Drake 4  70
+TA is serving to Namor McKenzie 4  75
+Completed from TA line Kevin MacTaggert 0  80
+Kevin has returned laptop 
+Completed from TA line Miranda Leevald 0  85
+Miranda has returned laptop 
+TA is serving to Robert Drake 3  90
+TA is serving to Namor McKenzie 3  95
+TA is serving to Robert Drake 2  100
+TA is serving to Namor McKenzie 2  105
+TA is serving to Robert Drake 1  110
+TA is serving to Namor McKenzie 1  115
+Megan Gwynn  117
+Completed from TA line Robert Drake 0  120
+Robert has returned laptop 
+Completed from TA line Namor McKenzie 0  125
+Namor has returned laptop 
+TA is serving to Megan Gwynn 4  130
+TA is serving to Megan Gwynn 3  135
+Bolivar Trask  135
+Calvin Rankin  136
+TA is serving to Megan Gwynn 2  140
+David Haller  143
+TA is serving to Bolivar Trask 4  145
+TA is serving to Calvin Rankin 1  150
+TA is serving to Megan Gwynn 1  155
+Completed from TA line David Haller 0  160
+David has returned laptop 
+TA is serving to Bolivar Trask 3  165
+Completed from TA line Calvin Rankin 0  170
+Calvin has returned laptop 
+Lucas Bishop  174
+Completed from TA line Megan Gwynn 0  175
+Megan has returned laptop 
+Heather Cameron  177
+TA is serving to Bolivar Trask 2  180
+TA is serving to Lucas Bishop 5  185
+TA is serving to Heather Cameron 2  190
+TA is serving to Bolivar Trask 1  195
+TA is serving to Lucas Bishop 4  200
+Tabitha Smith  202
+Jean Grey  203
+TA is serving to Heather Cameron 1  205
+Kurt Wagner  207
+Completed from TA line Bolivar Trask 0  210
+Bolivar has returned laptop 
+TA is serving to Lucas Bishop 3  215
+TA is serving to Tabitha Smith 5  220
+TA is serving to Jean Grey 1  225
+Completed from TA line Heather Cameron 0  230
+Heather has returned laptop 
+Warren Worthington  232
+TA is serving to Kurt Wagner 5  235
+
+
+END OF THE DAY 2 week 2
+
+
+
+ start of day 3 week 2
+
+Start time 0 End Time 240
+
+Jason Wyngarde  6
+Shen Xorn  9
+Henry McCoy  10
+TA is serving to Jason Wyngarde 2  12
+Jeanne-Marie Beaubier  14
+TA is serving to Shen Xorn 1  17
+Illyana Rasputina  17
+TA is serving to Henry McCoy 4  22
+Gabriel Summers  24
+Nathan Summers  25
+TA is serving to Jason Wyngarde 1  27
+TA is serving to Jeanne-Marie Beaubier 4  32
+Suzanne Chan  32
+Completed from TA line Shen Xorn 0  37
+Shen has returned laptop 
+TA is serving to Illyana Rasputina 2  42
+TA is serving to Henry McCoy 3  47
+TA is serving to Gabriel Summers 4  52
+Lorna Dane  52
+TA is serving to Nathan Summers 5  57
+Completed from TA line Jason Wyngarde 0  62
+Karl Lykos  62
+Jason has returned laptop 
+TA is serving to Jeanne-Marie Beaubier 3  67
+TA is serving to Suzanne Chan 5  72
+Yuriko Oyama  73
+TA is serving to Illyana Rasputina 1  77
+TA is serving to Henry McCoy 2  82
+TA is serving to Gabriel Summers 3  87
+Roberto Da_Costa  88
+Completed from TA line Lorna Dane 0  92
+Lorna has returned laptop 
+TA is serving to Nathan Summers 4  97
+TA is serving to Karl Lykos 2  102
+Madelyne Pryor  105
+TA is serving to Jeanne-Marie Beaubier 2  107
+TA is serving to Suzanne Chan 4  112
+TA is serving to Yuriko Oyama 5  117
+Completed from TA line Illyana Rasputina 0  122
+Illyana has returned laptop 
+TA is serving to Henry McCoy 1  127
+TA is serving to Gabriel Summers 2  132
+Completed from TA line Roberto Da_Costa 0  137
+Roberto has returned laptop 
+TA is serving to Nathan Summers 3  142
+TA is serving to Karl Lykos 1  147
+TA is serving to Madelyne Pryor 4  152
+TA is serving to Jeanne-Marie Beaubier 1  157
+TA is serving to Suzanne Chan 3  162
+TA is serving to Yuriko Oyama 4  167
+Completed from TA line Henry McCoy 0  172
+Henry has returned laptop 
+TA is serving to Gabriel Summers 1  177
+TA is serving to Nathan Summers 2  182
+Completed from TA line Karl Lykos 0  187
+Karl has returned laptop 
+TA is serving to Madelyne Pryor 3  192
+Completed from TA line Jeanne-Marie Beaubier 0  197
+Jeanne-Marie has returned laptop 
+TA is serving to Suzanne Chan 2  202
+TA is serving to Yuriko Oyama 3  207
+Completed from TA line Gabriel Summers 0  212
+Gabriel has returned laptop 
+TA is serving to Nathan Summers 1  217
+TA is serving to Madelyne Pryor 2  222
+TA is serving to Suzanne Chan 1  227
+TA is serving to Yuriko Oyama 2  232
+Completed from TA line Nathan Summers 0  237
+Nathan has returned laptop 
+
+
+END OF THE DAY 3 week 2
+
